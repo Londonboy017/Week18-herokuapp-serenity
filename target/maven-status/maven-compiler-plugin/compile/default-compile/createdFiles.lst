@@ -1,0 +1,6 @@
+com\herokuapp\restful\model\HerokuappPojo.class
+com\herokuapp\restful\constants\EndPoints.class
+com\herokuapp\restful\constants\Path.class
+com\herokuapp\restful\utils\TestUtils.class
+com\herokuapp\restful\steps\BookingSteps.class
+com\herokuapp\restful\utils\PropertyReader.class

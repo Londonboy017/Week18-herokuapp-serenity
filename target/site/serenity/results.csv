@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRU dtests","This will set authentication of user","SUCCESS","2022-06-07T21:41:50.847+01:00[Europe/London]","0.0","3.46"
+"CRU dtests","This test will Create a new booking of user","SUCCESS","2022-06-07T21:41:54.335+01:00[Europe/London]","0.0","0.91"
+"CRU dtests","This test will Update a booking","SUCCESS","2022-06-07T21:41:55.248+01:00[Europe/London]","0.0","0.54"
+"CRU dtests","This will Deleted a user","SUCCESS","2022-06-07T21:41:55.784+01:00[Europe/London]","0.0","1.12"
